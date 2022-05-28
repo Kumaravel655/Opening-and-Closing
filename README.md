@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 
 text_image = np.zeros((100,440),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX = 3
-cv2.putText(text_image," Gowri",(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(text_image," Kumaravel V",(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.title("Original Image")
 plt.imshow(text_image,'magma')
 plt.axis('off')
@@ -73,7 +73,8 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-![Screenshot_686](https://user-images.githubusercontent.com/75235455/170063650-3f388ad7-a570-4cf7-a9bb-8fe60db31ddd.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/75235334/170828318-dd1ef112-d6e2-4920-b2ab-ef464b40e0cd.png)
+ 
 <br>
 <br>
 <br>
@@ -82,8 +83,7 @@ plt.axis('off')
 <br>
 
 ### Display the result of Opening
-![Screenshot_687](https://user-images.githubusercontent.com/75235455/170063705-79e2ec19-d7bb-453a-b5ed-7cd7e144fd93.png)
-<br>
+![Screenshot (146)](https://user-images.githubusercontent.com/75235334/170828348-73bbfb26-99d2-447d-a793-f6f5c686d776.png)<br>
 <br>
 <br>
 <br>
@@ -91,8 +91,7 @@ plt.axis('off')
 <br>
 
 ### Display the result of Closing
-![Screenshot_688](https://user-images.githubusercontent.com/75235455/170063757-a2480ef0-9a38-4a44-910e-e952acfbce55.png)
-<br>
+![Screenshot (147)](https://user-images.githubusercontent.com/75235334/170828376-15106f6c-ac01-4030-b5de-0347e0ab2da6.png)<br>
 <br>
 <br>
 <br>
