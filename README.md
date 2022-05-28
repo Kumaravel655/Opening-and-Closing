@@ -22,6 +22,14 @@ Apply erosion and dilation using cv2.MORPH_OPEN and cv2.MORPH_CLOSE.
 ### Step5:
 Plot the images using plt.imshow.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
  
 ## Program:
 ```
@@ -70,14 +78,13 @@ plt.axis('off')
 
 
 ```
+<br>
+<br>
+
 ## Output:
 
 ### Display the input Image
-![Screenshot (145)](https://user-images.githubusercontent.com/75235334/170828318-dd1ef112-d6e2-4920-b2ab-ef464b40e0cd.png)
- 
-<br>
-<br>
-<br>
+![Screenshot (145)](https://user-images.githubusercontent.com/75235334/170828318-dd1ef112-d6e2-4920-b2ab-ef464b40e0cd.png) 
 <br>
 <br>
 <br>
@@ -86,17 +93,13 @@ plt.axis('off')
 ![Screenshot (146)](https://user-images.githubusercontent.com/75235334/170828348-73bbfb26-99d2-447d-a793-f6f5c686d776.png)<br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### Display the result of Closing
 ![Screenshot (147)](https://user-images.githubusercontent.com/75235334/170828376-15106f6c-ac01-4030-b5de-0347e0ab2da6.png)<br>
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
