@@ -1,4 +1,6 @@
-# Opening-and-Closing
+### Ex.No:11
+### DATE: 
+# <p align="center">Opening-and-Closing</p> 
 
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
@@ -26,9 +28,7 @@ Plot the images using plt.imshow.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
  
 ## Program:
